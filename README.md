@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0227-basic-calculator-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1903-largest-odd-number-in-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2942-find-words-containing-character) |
 ## Greedy
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2733-neither-minimum-nor-maximum) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2942-find-words-containing-character) |
 ## Stack
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Simulation
+|  |
+| ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2744-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
