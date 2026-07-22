@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1137-n-th-tribonacci-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1108-defanging-an-ip-address) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1929-concatenation-of-array) |
