@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1122-relative-sort-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1122-relative-sort-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
