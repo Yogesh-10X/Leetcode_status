@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2942-find-words-containing-character) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2960-count-tested-devices-after-test-operations) |
+| [2974-minimum-number-game](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1122-relative-sort-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2960-count-tested-devices-after-test-operations) |
+| [2974-minimum-number-game](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0347-top-k-frequent-elements) |
+| [2974-minimum-number-game](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
