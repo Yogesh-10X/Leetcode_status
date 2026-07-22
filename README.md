@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1903-largest-odd-number-in-string) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
