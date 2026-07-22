@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3099-harshad-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/3099-harshad-number) |
 ## String
 |  |
 | ------- |
