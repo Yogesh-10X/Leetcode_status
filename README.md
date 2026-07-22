@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2960-count-tested-devices-after-test-operations) |
