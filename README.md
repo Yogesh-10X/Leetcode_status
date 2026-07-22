@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0728-self-dividing-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
