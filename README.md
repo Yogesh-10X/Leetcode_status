@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0227-basic-calculator-ii) |
+| [0389-find-the-difference](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1768-merge-strings-alternately) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -85,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0389-find-the-difference) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
