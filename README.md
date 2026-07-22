@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0227-basic-calculator-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0227-basic-calculator-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -30,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
