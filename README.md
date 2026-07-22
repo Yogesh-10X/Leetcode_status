@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
+| [1122-relative-sort-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1122-relative-sort-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1122-relative-sort-array) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1748-sum-of-unique-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0389-find-the-difference) |
+| [1122-relative-sort-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1122-relative-sort-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
