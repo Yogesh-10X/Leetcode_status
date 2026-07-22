@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0342-power-of-four) |
 ## Math
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1903-largest-odd-number-in-string) |
