@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1122-relative-sort-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1470-shuffle-the-array) |
