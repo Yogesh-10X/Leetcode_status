@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0227-basic-calculator-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0151-reverse-words-in-a-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0389-find-the-difference) |
