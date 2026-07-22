@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1903-largest-odd-number-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1816-truncate-sentence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Matrix
