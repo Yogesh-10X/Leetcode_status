@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1748-sum-of-unique-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Two Pointers
