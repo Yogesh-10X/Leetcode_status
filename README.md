@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1732-find-the-highest-altitude) |
