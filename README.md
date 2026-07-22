@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0258-add-digits) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0977-squares-of-a-sorted-array) |
