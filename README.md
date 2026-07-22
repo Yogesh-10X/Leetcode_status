@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
