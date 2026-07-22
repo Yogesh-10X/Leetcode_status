@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0227-basic-calculator-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0088-merge-sorted-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0387-first-unique-character-in-a-string) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0347-top-k-frequent-elements) |
