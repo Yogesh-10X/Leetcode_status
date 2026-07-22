@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0728-self-dividing-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -223,10 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1137-n-th-tribonacci-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
 |  |
 | ------- |
