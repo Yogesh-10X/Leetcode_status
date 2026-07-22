@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Yogesh-10X/Leetcode_status/tree/master/0728-self-dividing-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1512-number-of-good-pairs) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Yogesh-10X/Leetcode_status/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/Yogesh-10X/Leetcode_status/tree/master/3099-harshad-number) |
